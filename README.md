@@ -5,6 +5,7 @@
 - add new content
 - optimize for mobile
 - feedback form
+- lazy loading
 - deploy
 
 ## For the future
