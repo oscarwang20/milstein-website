@@ -3,3 +3,12 @@
     height: auto;
     width: auto\9; /* ie8 */
 }
+
+.interview-container {
+    text-align: left;
+    justify-content: left;
+}
+
+ul {
+    list-style-type: none;
+}

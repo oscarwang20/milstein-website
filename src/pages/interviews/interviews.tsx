@@ -30,7 +30,7 @@ const Interview_details: { [key: string]: details } = {
     },
   },
   1: {
-    name: "Dumebi",
+    name: "CSMore with Dumebi",
     headshot: Dumebi_headshot,
     interview: Dumebi_Interview,
     description:

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./internships.css";
 import expand_icon from "./expand-icon-default.svg";
 import expand_icon_expanded from "./expand-icon-expanded.svg";
+import Banner from "./banner.svg";
 
 type InternshipInfo = {
   company: string;
@@ -25,7 +26,7 @@ type InternshipInfoList = { [key: string]: InternshipInfo };
 const internshipInfos: InternshipInfoList = {
   0: {
     company: "Bank of America",
-    role: "Global Tech Analysy",
+    role: "Global Tech Analyst",
     location: "Charlotte, NC",
     date: "",
     salary: "> $9,000",
@@ -151,9 +152,8 @@ const Internships: React.FC = () => {
   const InternshipToggleCard = (props: {
     info: InternshipInfo;
     bgColor: number;
-    index: string;
   }) => {
-    const { info, bgColor, index } = props;
+    const { info, bgColor } = props;
     const bgCol = bgColor === 1 ? "#F5F5F5" : "#FFFFFF";
     const [expanded, setExpanded] = useState(false);
     const [expandIcon, setExpandIcon] = useState(expand_icon);
@@ -183,24 +183,28 @@ const Internships: React.FC = () => {
             <img src={expandIcon} alt="expand-icon" />
           </div>
           <div className="company">
-            <h3>{info.company}</h3>
+            <h4>{info.company}</h4>
             <p>
               {info.location} {info.date !== "" ? "- " + info.date : ""}
             </p>
           </div>
           <div className="role">
-            <h3>{info.role}</h3>
+            <p>{info.role}</p>
           </div>
           <div className="salary">
-            <h3>{info.salary}</h3>
+            <p>{info.salary}</p>
           </div>
         </div>
         <div
           className="large"
-          id={props.index}
           style={expanded ? { display: "block" } : { display: "none" }}
         >
-          <p>Rest of the info</p>
+          <div>
+            <h3>Source</h3>
+            <p>{info.source}</p>
+            <h3>Application Process</h3>
+            <p>{info.application_process}</p>
+          </div>
         </div>
       </div>
     );
@@ -212,7 +216,6 @@ const Internships: React.FC = () => {
         <InternshipToggleCard
           info={internshipInfos[key]}
           bgColor={parseInt(key) % 2}
-          index={key}
         />
       );
     });
@@ -220,19 +223,28 @@ const Internships: React.FC = () => {
 
   return (
     <div className="internships">
-      <SearchBar />
-      <div className="internship-table-header">
-        <div className="company">
-          <h3>Company</h3>
-        </div>
-        <div className="role">
-          <h3>Role</h3>
-        </div>
-        <div className="salary">
-          <h3>Salary</h3>
-        </div>
+      <div className="banner">
+        <img className="banner" src={Banner} alt="banner" />
       </div>
-      <div className="internship-table">{InternshipTable()}</div>
+      <h2>Internships</h2>
+      <SearchBar />
+      <div className="internship-table-full">
+        <div className="internship-table-header">
+          <div className="company">
+            <h4 style={{ marginTop: 10, marginBottom: 1 }}>Company</h4>
+            <p style={{ marginTop: 1, marginBottom: 5 }}>
+              Location - Season/Year
+            </p>
+          </div>
+          <div className="role">
+            <h4>Role</h4>
+          </div>
+          <div className="salary">
+            <h4>Salary</h4>
+          </div>
+        </div>
+        <div className="internship-table">{InternshipTable()}</div>
+      </div>
     </div>
   );
 };
