@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
 .banner {
     max-width: 100%;
     height: auto;
@@ -7,6 +9,31 @@
 .interview-container {
     text-align: left;
     justify-content: left;
+}
+
+.audio-controls {
+    width: 400px;
+}
+
+.playbox {
+    width: 400px;
+}
+
+.interview-media-box {
+    width: 400px;
+    justify-content: left;
+    text-align: left;
+}
+
+.interview {
+    font-family: "Inter" sans-serif;
+    display: inline block;
+    width: 800px;
+}
+
+.interview-display-box {
+    display: inline block;
+    width: 800px;
 }
 
 ul {

@@ -53,29 +53,39 @@ const Interviews: React.FC = () => {
           <div className="interview-header">
             <h2>{Interview_details[key].name}</h2>
           </div>
-          <div className="interview-image">
-            <img
-              className="headshot"
-              src={Interview_details[key].headshot}
-              alt="headshot"
-            />
-          </div>
-          <div className="interview-media-box">
-            <audio controls src={Interview_details[key].interview} />
-            <p className="interview-description">
-              {Interview_details[key].description}
-            </p>
-            <div className="interview-timestamps">
-              <h3>Timestamps</h3>
-              <ul>
-                {Object.keys(Interview_details[key].timestamps).map((time) => {
-                  return (
-                    <li>
-                      {time}- {Interview_details[key].timestamps[time]}
-                    </li>
-                  );
-                })}
-              </ul>
+          <div className="interview-display-box">
+            <div className="playbox">
+              <div className="interview-image">
+                <img
+                  className="headshot"
+                  src={Interview_details[key].headshot}
+                  alt="headshot"
+                />
+              </div>
+              <audio
+                className="audio-controls"
+                controls
+                src={Interview_details[key].interview}
+              />
+            </div>
+            <div className="interview-media-box">
+              <p className="interview-description">
+                {Interview_details[key].description}
+              </p>
+              <div className="interview-timestamps">
+                <h3>Timestamps</h3>
+                <ul>
+                  {Object.keys(Interview_details[key].timestamps).map(
+                    (time) => {
+                      return (
+                        <li>
+                          {time}- {Interview_details[key].timestamps[time]}
+                        </li>
+                      );
+                    }
+                  )}
+                </ul>
+              </div>
             </div>
           </div>
         </div>
