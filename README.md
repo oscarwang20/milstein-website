@@ -4,6 +4,7 @@
 - optimize styling
 - add new content
 - optimize for mobile
+- feedback form
 - deploy
 
 ## For the future
