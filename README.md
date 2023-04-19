@@ -1,5 +1,6 @@
 ## To do
 - submit button
+- search and sort
 - optimize styling
 - add new content
 - optimize for mobile
