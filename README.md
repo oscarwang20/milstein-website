@@ -6,6 +6,8 @@
 - optimize for mobile
 - feedback form
 - lazy loading
+- routing with router dom
+- nextjs
 - deploy
 
 ## For the future
