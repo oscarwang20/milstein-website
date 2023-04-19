@@ -8,7 +8,7 @@
 - lazy loading
 - routing with router dom
 - nextjs
-- deploy
+- deploy via vercel
 
 ## For the future
 - css animations
