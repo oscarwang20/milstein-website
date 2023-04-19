@@ -7,5 +7,6 @@
 - deploy
 
 ## For the future
+- css animations
 - auth
 - backend auto submission / update
