@@ -1,19 +1,23 @@
 .navbar {
     display: block;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    border-bottom: 1px solid #FFDA1E;
 }
 
 .navbar-logo {
     width: fit-content;
 }
 
-ul {
+ul.navbar-nav-list {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
   }
   
-  li {
+  ul.navbar-nav-list li {
     float: left;
   }
   
@@ -27,6 +31,7 @@ ul {
     padding-top: 35px;
     padding-bottom: 35px;
     text-decoration: none;
+    transition: 0.3s;
   }
 
   li.navbar-nav-list-item a.selected {
@@ -62,5 +67,3 @@ ul {
   .justify-right {
     float: right;
   }
-
-  

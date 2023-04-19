@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import photo from "./group-dinner-2.svg";
 import "./index.css";
 
