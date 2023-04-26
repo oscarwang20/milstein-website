@@ -8,10 +8,11 @@
 
 .search-bar {
     width: 1000px;
+    display: inline block;
 }
 
 .search-input {
-    width: 976px;
+    width: 820px;
     height: 40px;
     border-radius: 15px;
     border: 2px solid gray;
@@ -19,6 +20,24 @@
     margin-bottom: 25px;
     padding-left: 20px;
     transition: border 0.3s;
+    font-family: "Inter", sans-serif;
+}
+
+.form-button {
+    width: 150px;
+    height: 46px;
+    border-radius: 15px;
+    background-color: white;
+    border: 2px solid gray;
+    margin-left: 4px;
+    font-family: "Inter", sans-serif;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-button:hover {
+    background-color: #ffda1e;
+    border: 2px solid #ffda1e;
 }
 
 .search-input:focus {
@@ -45,8 +64,8 @@
 
 .internship-table-header {
     background-color: #F5F5F5;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
+    border-top: 2px solid #6D6E71;
+    border-bottom: 2px solid #6D6E71;
     display: flex;
     width: 1000px;
 }
