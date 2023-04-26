@@ -11,7 +11,7 @@ const Navbar: React.FC = () => {
           <li className="navbar-nav-image">
             <div className="navbar-logo">
               <a href="/">
-                <img src={krish} alt="Milstein-logo" />
+                <img src={mlogo} alt="Milstein-logo" />
               </a>
             </div>
           </li>

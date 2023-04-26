@@ -3,6 +3,7 @@ import "./internships.css";
 import expand_icon from "./expand-icon-default.svg";
 import expand_icon_expanded from "./expand-icon-expanded.svg";
 import Banner from "./banner.svg";
+import { useHref } from "react-router-dom";
 
 type InternshipInfo = {
   company: string;
@@ -113,7 +114,7 @@ const internshipInfos: InternshipInfoList = {
     role: "Research Intern (Ecotoxicology Department)",
     location: "Sarasota, FL",
     date: "",
-    salary: "5,000 - $9,000",
+    salary: "$5,000 - $9,000",
     source:
       "I interned with The Nature Conservancy in high school and their college programs managers sent us emails with internship opportunities.",
     application_process:
@@ -145,6 +146,18 @@ const Internships: React.FC = () => {
           placeholder="Search for internships..."
           className="search-input"
         />
+        <button
+          className="form-button"
+          type="button"
+          value={"Submit an internship!"}
+          onClick={(e) =>
+            window.open(
+              "https://docs.google.com/forms/d/1l7wz3Dij6YrNoVCxd7oNlfJPH0OiTREZLRl5hUrKXvE/edit"
+            )
+          }
+        >
+          Submit an internship!
+        </button>
       </div>
     );
   };
