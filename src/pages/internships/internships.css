@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+.banner {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.search-bar {
+    width: 1000px;
+}
+
+.search-input {
+    width: 976px;
+    height: 40px;
+    border-radius: 15px;
+    border: 2px solid gray;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-left: 20px;
+    transition: border 0.3s;
+}
+
+.search-input:focus {
+    outline: none;
+    border: 2px solid #ffda1e;
+}
+
+.search-input:hover {
+    outline: none;
+    border: 2px solid #ffda1e;
+}
+
+.internships {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    font-family: "Inter", sans-serif;
+}
+
+.internship-table-full {
+    width: 1000px;
+}
+
+.internship-table-header {
+    background-color: #F5F5F5;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    display: flex;
+    width: 1000px;
+}
+
+.internship-table-header .company {
+    margin-left: 50px;
+}
+
+.company {
+    width: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: left;
+    text-align: left;
+}
+
+.company h4 {
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+.company p {
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+
+.role {
+    width: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: left;
+    text-align: left;
+}
+
+.salary {
+    width: 200px;
+    padding-right: 50px;
+    padding-left: 50px;
+    justify-content: left;
+    text-align: left;
+}
+
+.expand-icon {
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 18.72px;
+}
+
+.small {
+    display: flex;
+    width: 1000px;
+}
+
+.large {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: left;
+    justify-content: left;
+}
+
+.large div {
+    margin-left: 100px;
+}

@@ -1,23 +1,27 @@
 .navbar {
     display: block;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    border-bottom: 2px solid #FFDA1E;
 }
 
 .navbar-logo {
     width: fit-content;
 }
 
-ul {
+ul.navbar-nav-list {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
   }
   
-  li {
+  ul.navbar-nav-list li {
     float: left;
   }
   
-  li.navbar-nav-list-item a {
+  li.navbar-nav-list-item a.unselected {
     display: block;
     color: black;
     text-align: center;
@@ -26,14 +30,26 @@ ul {
     padding-right: 16px;
     padding-top: 35px;
     padding-bottom: 35px;
-    text-decoration: none;
+    text-decoration: underline 2px white;
+    text-underline-offset: 5px;
+    transition: text-decoration-color 0.3s;
+  }
+
+  li.navbar-nav-list-item a.selected {
+    display: block;
+    color: black;
+    text-align: center;
+    float: right;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    text-decoration: underline 2px #FFDA1E;
+    text-underline-offset: 5px;
   }
 
   li.navbar-nav-list-item a:hover {
-    text-decoration: underline;
-    text-decoration-color: #FFDA1E;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 5px;
+    text-decoration: underline 2px #FFDA1E;
   }
 
   li.navbar-nav-image a {
