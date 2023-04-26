@@ -18,9 +18,15 @@
     margin-top: 25px;
     margin-bottom: 25px;
     padding-left: 20px;
+    transition: border 0.3s;
 }
 
 .search-input:focus {
+    outline: none;
+    border: 2px solid #ffda1e;
+}
+
+.search-input:hover {
     outline: none;
     border: 2px solid #ffda1e;
 }
