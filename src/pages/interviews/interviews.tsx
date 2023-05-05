@@ -5,6 +5,18 @@ import Andres_Interview from "./Andres.mp3";
 import Dumebi_Interview from "./Dumebi.mp3";
 import Andres_headshot from "./andres_headshot.svg";
 import Dumebi_headshot from "./dumebi_headshot.svg";
+import Mary_Interview from "./Mary.mp3";
+import Mary_headshot from "./Mary.jpg";
+import Peyton_Interview from "./Peyton.mp3";
+import Peyton_headshot from "./Peyton.jpeg";
+import V_Interview from "./V.mp3";
+import V_headshot from "./V.jpeg";
+import Zayana_Interview from "./Zayana.mp3";
+import Zayana_headshot from "./Zayana.jpeg";
+import Internship_Panel from "./Internship_Panel.mp3";
+import Externship_Panel from "./Externship_Panel.mp3";
+import Elena_Interview from "./Elena.mp3";
+import Elena_headshot from "./Elena.jpeg";
 
 type details = {
   name: string;
@@ -42,6 +54,55 @@ const Interview_details: { [key: string]: details } = {
       "12:30": "How this experience helped him with his major/career path",
       "21:46": "More advice",
     },
+  },
+  2: {
+    name: "Mary",
+    headshot: Mary_headshot,
+    interview: Mary_Interview,
+    description: "",
+    timestamps: {},
+  },
+  3: {
+    name: "Peyton",
+    headshot: Peyton_headshot,
+    interview: Peyton_Interview,
+    description: "",
+    timestamps: {},
+  },
+  4: {
+    name: "V",
+    headshot: V_headshot,
+    interview: V_Interview,
+    description: "",
+    timestamps: {},
+  },
+  5: {
+    name: "Zayana",
+    headshot: Zayana_headshot,
+    interview: Zayana_Interview,
+    description: "",
+    timestamps: {},
+  },
+  6: {
+    name: "Elena",
+    headshot: Elena_headshot,
+    interview: Elena_Interview,
+    description: "",
+    timestamps: {},
+  },
+  7: {
+    name: "Internship Panel",
+    headshot: "",
+    interview: Internship_Panel,
+    description: "",
+    timestamps: {},
+  },
+  8: {
+    name: "Externship Panel",
+    headshot: "",
+    interview: Externship_Panel,
+    description: "",
+    timestamps: {},
   },
 };
 

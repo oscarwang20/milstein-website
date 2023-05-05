@@ -1,0 +1,611 @@
+Austin:                                                00:00                                             So why don't you guys go through and just introduce yourselves. Why don't we get started and students, when they roll in, in which case, you know, whatever, we'll just introduce them then. So, yeah. Reza, do you mind starting? Yeah,
+
+Reza:                                                  00:17                                             I'm Reza. Um, I'm a senior, obviously. Uh, I've been studying computer science and Asian studies as a double major. Um, this past summer I interned at Amazon on their cloud formation team as a software engineer, and I accepted a return offer.
+
+Austin:                                                00:35                                             Did you all have return offers? I was asking Chloe this. That's, that's the game. Okay. All right, great. Reza came to the first year seminar, so I think you guys might remember this part of his face. Um,
+
+Reza:                                                  00:46                                             Yeah.
+
+Austin:                                                00:47                                             Uh, Jasper, what about you?
+
+Jasper:                                                00:48                                             I'm Jasper, I'm a senior. I'm a information science and philosophy double major. I interned at Capital One. Uh, looking at highly escalated, Highly escalated critical complaints, uh, doing like ad hoc analysis and stuff like that. And I also got a return offer
+
+Austin:                                                01:10                                             Highly escalated. Yeah,
+
+Jasper:                                                01:12                                             The most highly escalated
+
+Austin:                                                01:13                                             Meaning, uh, sorry if I,
+
+Jasper:                                                01:14                                             If I to our CEO saying like, you know, I called about this five times, gonna burn down your headquarters if you don't,
+
+Austin:                                                01:21                                             You know, really take
+
+Jasper:                                                01:22                                             This charge off my account. I looked at that. I read through all of those for like a 12 month period. It pretty insane. There's some profane and racist customers.
+
+Austin:                                                01:31                                             Wow. Do they actually have the CEO's email or were they friends somehow with the ceo or, uh, it's
+
+Jasper:                                                01:35                                             All the employee emails are just like first dot last,
+
+Austin:                                                01:38                                             Oh, you can find them.
+
+Jasper:                                                01:40                                             <laugh>.
+
+Austin:                                                01:41                                             Okay.
+
+Jasper:                                                01:41                                             I d know how, how great that is for security.
+
+Austin:                                                01:44                                             Reza, where was your internship? Was it remote or virtual? It was,
+
+Jasper:                                                01:47                                             Team was in Seattle, but I was working East Coast
+
+Austin:                                                01:49                                             And Ja Jasper. Yours was remote too? Yeah, it
+
+Jasper:                                                01:51                                             Was in New York.
+
+Austin:                                                01:52                                             But you were based in New York, right? Yeah. Okay. My
+
+Jasper:                                                01:54                                             Job is in, uh, like Richmond or McLean.
+
+Austin:                                                01:58                                             Okay. Katie.
+
+Katie:                                                 02:00                                             Um, yeah, my name's Katie. I'm also a senior. Um, I'm a CS major doing a game design minor and I interned at Ridgeline, which is like an investment management software startup. Um, and I was, um, at their headquarters, which is an incline village in Nevada by Lake Tahoe
+
+Austin:                                                02:15                                             Equine Village.
+
+Katie:                                                 02:16                                             Incline Village. Oh, en Incline Village. Yeah. Oh, sounds pretty. Yeah, It's really pretty. Okay. a lot of good nature,
+
+Austin:                                                02:22                                             But in person. Yeah, it's rare in person. Okay. Yeah, it was kind. Welcome. Um, we'll introduce you guys in a minute. Okay. Last up. Chloe.
+
+Chloe:                                                 02:30                                             Hi, I'm Chloe. I'm a senior studying information science and minoring in business. Uh, this summer I worked at American Express doing product management and I'm also going back next year.
+
+Austin:                                                02:42                                             Okay. And was also remote in person. Remind me. Yeah, I was
+
+Chloe:                                                 02:46                                             Remote. I was in New York, but my team is based in Phoenix.
+
+Austin:                                                02:51                                             Is that where the headquarters is?
+
+Chloe:                                                 02:52                                             Yeah. I'll, I'll be in New York next year.
+
+Austin:                                                02:54                                             Okay. But Amex is based in Phoenix,
+
+Chloe:                                                 02:56                                             New York, and Phoenix.
+
+Austin:                                                02:57                                             Oh, interesting. Okay. All right. So why don't you guys introduce yourselves. So Crystal, first year student.
+
+Crystal:                                               03:02                                             Yeah. I'm Crystal,
+
+Austin:                                                03:04                                             What else do we need to know? Where are you from?
+
+Crystal:                                               03:06                                             Indianapolis, Indiana? Um, my favorite color is Pink
+
+Austin:                                                03:11                                             <laugh>. Oh, I don't
+
+Austin:                                                03:13                                             <laugh>. Um, and are you thinking major wise? What are you thinking?
+
+Crystal:                                               03:17                                             Oh, I don't know. I came in CS and now I don't know anymore.
+
+Austin:                                                03:20                                             Yeah, <laugh>. Okay. Familiar Journey Ming?
+
+Ming:                                                  03:25                                             Uh, hi, I'm Ming. I'm Rochester, New York. My favorite club is Red. Uh, I came into CS and it's fun and all. Okay. It's not really at all. So, uh, also history. I like history, so I might double, I might just drop out. We'll see how it goes.
+
+Austin:                                                03:43                                             Okay. Second row,
+
+Right:                                                 03:45                                             I'm right. I senior in the Milstein program and uh, I'm a CS+Stats major. I'm from Maryland and favorite colors pink.
+
+Austin:                                                03:55                                             Wow, okay. Yeah. Wow. Special connection tonight. <laugh>, neither of you have any pink on you. Is it just a secret thing that you like to only reveal certain moments? The pink thing, um, <laugh>. Okay. Well, everybody knows Maya, I think, or most of us. Everybody. Right. Okay. And the at the back. Oh,
+
+Yohan:                                                 04:11                                             Uh, I'm Yohan] a sophomore is CS. And, um, my favorite color is everything that's like, that doesn't have a ton of color. So like, including pink.
+
+Austin:                                                04:22                                             Oh, I think of pink is having quite a bit of color. Is there's some like mathematical formula you're thinking there. <laugh>, hex, hex colors. Um, pink. Okay. So I wanted to ask the four of you, one big question is something on everybody's mind. How did you even hear about this job? So Chloe, you were saying earlier, handshake actually made the difference, right? Yeah. Yeah.
+
+Chloe:                                                 04:42                                             I was first introduced to it through, um, an information session. It was on Zoom, and I think I found out about that on Handshake. Mm-hmm. <affirmative>. So yeah, I didn't know much about it. I just saw a bunch of listings and then I went to that information session.
+
+Austin:                                                04:56                                             Yohan, have you been on Handshake yet? Yeah. And May. What about you? Crystal Handshake? You checked it out? Yeah. So I've heard mixed things about Handshake, but it was effective for you? Yeah.
+
+Chloe:                                                 05:05                                             Okay. I feel like it's definitely one of the most effective platforms to find out about jobs.
+
+Austin:                                                05:10                                             Okay. Katie, what about you?
+
+Katie:                                                 05:12                                             Um, so for my, my sophomore year I went to the career fair, which was still in person at that point. And I saw originally on my way out, but they don't hire sophomores for internships. Oh. So then the next year, um, when it was like online, um, that was like why I went to that like booth or whatever specifically. And then, um, yeah, so that was how I found out.
+
+Austin:                                                05:31                                             Ridgeline is also formed by some Cornell alums, right?
+
+Katie:                                                 05:34                                             Yeah. Um, it was, well the founder is, uh, Dave Duffield, who's like, uh, so they hire like a lot Cornell specifically because of that,
+
+Austin:                                                05:42                                             We should bring him back. Does he ever come back to campus?
+
+Katie:                                                 05:45                                             Um, I don't really think he comes back super often. I, he's kind of chilling, being retired and, and climbs
+
+Austin:                                                05:52                                             Off. Oh, okay. Oh, <laugh>. Nice. So you've heard about it from a job fair, effectively, like just a happenstance to come across a company. And what made you choose Ridgeline? I mean, for a company, it's not a brand maybe a lot of people have heard of. What was interesting about that opportunity? Yeah.
+
+Katie:                                                 06:06                                             Um, I like really just enjoyed talking to the people that, um, I was talking to in the interviews and, um, at the booth and stuff. And, um, the way that everyone talked about it, they like kept talking about like a really great culture and stuff mm-hmm. <affirmative>. So I was kind of really curious to see what they meant.
+
+Austin:                                                06:20                                             Hmm, okay.
+
+Katie:                                                 06:21                                             Yeah. And it was in person, which was like a big thing,
+
+Austin:                                                06:24                                             Big appeal. Are you, where are you from originally? California? Uh, New York City. Oh, okay. So yeah, so going to Lake Tahoe itself was an adventure. Okay. Yeah,
+
+Katie:                                                 06:30                                             Definitely.
+
+Austin:                                                06:31                                             Jasper, what about you? Capital One Big company. I
+
+Jasper:                                                06:34                                             Also founded on Handshake and even, it wasn't even an info session, I just did some virtual interview and then some one live one, and then one like three hour set of, uh, zoom ones.
+
+Austin:                                                06:45                                             Whoa. Let's, I wanna hear more about these interviews and what they asked, but before we move on, Jasper, why Capital One? Did you blast two, like, I don't know, 50 different companies trying to get a gig? Or was Capital One where you wanted to be?
+
+Jasper:                                                06:55                                             It was like one of the, uh, it was like one of the first and like the slate of ones I applied to. And then I was just like, all right, when I start getting, you know, some offers, I'm gonna like stop the wave of applications and just like what the ones I already did, like trickle in and then like I'll, I'll decide among those. And like Capital One was like one of the first ones I heard back from and it was good. So I, I don't apply to like six or seven other companies. I'm like, alright, I'm just gonna let those, you know, trickle in and then yeah. See what's up. And I didn't get any of those. So it was like, well,
+
+Austin:                                                07:22                                             <laugh> decision made. Okay. Reza, you told me this story too. Remind me the details.
+
+Reza:                                                  07:28                                             Uh, yeah, it, Amazon's the only place I applied to because I got a referral from a friend who interned there after sophomore year. Um, and I kind of just applied on a web and, and got through, so I kinda got really lucky. So I couldn't really tell you how to land an internship in tech.
+
+Austin:                                                07:44                                             Okay. But a referral <laugh>. And the referral was somebody you met through rap study, right?
+
+Reza:                                                  07:49                                             Yes. So I was working on a, uh, a project here, uh, startup and she was one of the engineers who was working with us. Um, so she interned there after sophomore year and then, uh, just asked in the group if anybody wanted a referral basically. And so I said yes.
+
+Austin:                                                08:07                                             Okay. Yeah. Yeah. Great. I mean, I imagine a lot of people would've said yes. I would also like a refer. Yeah. Okay. Um, so I should say that I'll ask the first maybe three or four questions, but then I wanna open it up to you guys if you have questions too. Okay. So that time is coming. Um, okay. Let me ask you the interviews. So you find a job you're interested in Ridgeline, bank of America, Amex, and you're kinda like, okay, I'm gonna apply. Do you, what do you think made you stick out? Mm-hmm. <affirmative>. And why do you think you got to an interview stage? And then what do you, what did you do in the interview? What was it like? Yeah,
+
+Chloe:                                                 08:36                                             I think for me what was helpful was networking. So I set up a copy chat through Handshake that was available to Cornell students. And then once I met someone, I was able to meet more people at the company. Oh. And I went on LinkedIn and looked at who works at Amex, who went to Cornell, and I found some people who were in similar roles to me. Oh. And I reach out to them. Oh. And honestly, I think the most valuable part of the networking wasn't like necessarily getting referral because I don't think I did it, but instead the advice that they gave me Mm. Because they also went through the interview process. Oh. And they helped me prepare for that. Oh. So I think that was one thing that helped me.
+
+Austin:                                                09:13                                             Well stop for a second. Chloe, what'd they tell you? What was the advice?
+
+Chloe:                                                 09:17                                             Well, I was talking to someone who worked there and, um, who did the same exact internship that I was applying to. And she told me basically what kinds of questions to prepare for in the interviews. Oh.
+
+Austin:                                                09:29                                             Um, okay. I think we need to click on that too. Like, what were the questions?
+
+Chloe:                                                 09:33                                             So for product management, it was, uh, like understanding the product development cycle and being able to talk through all the steps of that process really. Well,
+
+Austin:                                                09:42                                             You knew that you knew the product development cycle. Yeah.
+
+Chloe:                                                 09:45                                             So then I researched that, oh, and I wrote it down <laugh> and I knew it for the interview and then they asked them an interview and I was really prepared for that and I had a good answer.
+
+Austin:                                                09:53                                             This is great. So you didn't, so someone tells you that you're gonna be asked about the product development cycle. You don't know what the product development cycle is. You don't work at AMEX yet? Yeah,
+
+Chloe:                                                 10:01                                             Like I was familiar with it. Okay. But it was definitely helpful to do that research and be prepared for the question. Okay. Before
+
+Austin:                                                10:08                                             I got it. Yeah. Great. Um, Katie, what about you? Ridge line?
+
+Katie:                                                 10:12                                             Um, I'm honestly not a hundred percent sure of like what made me stick out or anything, but I, the only thing, or from speculating, I guess, like, based on how my other interviews were going, I remember one of my other interviewers telling me that, um, the thing that was holding me back was like, I couldn't type as fast or I couldn't code as fast as I thought, and I just like know that Ridgeline emphasizes a lot more, or just from like, my interaction with people and like working there. Like they emphasize a lot more. Like communicating your thoughts about how Okay.
+
+Austin:                                                10:40                                             Um,
+
+Katie:                                                 10:40                                             Like your Yeah. Your thought process and stuff, and like being able to collaborate with other people. So I think like, even though that might have been like my biggest weakness at the time, I think being able to like, talk through the coding problems,
+
+Austin:                                                10:50                                             I have to say this is new information for me. People do expect you to have a code per minute, like rate the way we used to expect with typing. When you say like they, you couldn't code as fast as you think someone asks you how fast can you code or
+
+Katie:                                                 11:03                                             No, I guess just like she, I asked her for feedback after, um, after we had finished. I see. And she, uh, said that she wanted to see me, I guess just like code faster, really match my thought process. Okay. I don't know.
+
+Austin:                                                11:15                                             Jasper, you're nodding. Is this a test you've been given to, like, you have people been Oh no,
+
+Jasper:                                                11:19                                             I'm just nodding in interest <laugh>,
+
+Austin:                                                11:22                                             Um, that
+
+Jasper:                                                11:24                                             Cause Yeah, I also have no idea what made me stand out. Um, but with Amazon, because it's, it is such a big company and they hire so many, there's three rounds of automated, I'll call 'em tasks, not really interviews before you even talked to a person. Mm.
+
+Austin:                                                11:39                                             Wow.
+
+Jasper:                                                11:39                                             And so the first one was a debugging challenge, which was like seven questions. You had like 20 minutes and you had to debug as many as you could.
+
+Austin:                                                11:49                                             Wow.
+
+Jasper:                                                11:50                                             Um, I mean, I only, I think I only got through three of 'em mm-hmm. <affirmative> and I got me through, so, okay. I guess it's not super deep about how fast you do it, but I mean, there was time stuff with short time span. I know most of, at least what I've heard of other technical interviews. Usually like a longer form mm-hmm. <affirmative>, uh, like one question or two questions. Um,
+
+Austin:                                                12:08                                             You've got a type or is the answer very video or something. Okay. Yeah.
+
+Jasper:                                                12:12                                             Yeah. For all of 'em we have to, we have to type. Um, so yeah. Okay.
+
+Jasper:                                                12:18                                             Speed is, can be a factor, I think.
+
+Austin:                                                12:20                                             Were those Python pieces of Python code or what was were you looking at?
+
+Jasper:                                                12:25                                             Uh, yeah, you could choose your language actually. So, oh. Or that if you options. So Python, Java, I think C are usually the three or C++ are the three top that they usually
+
+Austin:                                                12:33                                             That you would. Okay. Jasper, what about you? What made you stick out, do you think?
+
+Jasper:                                                12:40                                             It's a little bit of a funny story cause I was just, uh, I was just googling some past people. I, I, I didn't do any networking like Chloe did. I just kind of Googled, you know, capital One interview questions, <laugh>.
+
+Austin:                                                12:52                                             Oh, really?
+
+Jasper:                                                12:53                                             Like watch two or three years ago. And like, they, they, they really don't change around the interview process for a lot of these companies that much. Okay. So like you can at least get an idea of like, what a lot of the questions are. Like, you know, there's gonna be a behavioral one, there's gonna be like a case study and there's gonna be, you know, some, there's, there's gonna be some product development questions. So it's kind of funny, I, I saw a sample product development questions like, what's 10 ways you would like innovate a lunchbox or something like that. Okay. And I was like, thinking about how I would answer that, uh, and like, preparation for this. Yeah. And that's literally the question that they gave me in the interview. I just like pretended to take 30 seconds to write down my thoughts <laugh> through my notebook to the page. Right. Nice. So maybe that's what made me stick out. So I had the answers ahead of time.
+
+Austin:                                                13:35                                             Jasper, what were your 10 ways to innovate a lunchbox?
+
+Jasper:                                                13:37                                             Oh, I'd have to, I, I had like a whole framework for it provide into like utility aesthetics and
+
+Austin:                                                13:44                                             Oh, I see.
+
+Jasper:                                                13:45                                             Uh, it's the convenience. It was like I had this whole sick framework. It was, it was,
+
+Austin:                                                13:51                                             It was magic Well done because, so maybe that would've made you stick out, because I imagine some people just thought, oh, I'm add a straw or a calculator to it or something. They didn't actually have frameworks to apply. Yeah. I,
+
+Jasper:                                                13:59                                             I've less experience with like the coding questions than CS people do. But, uh, for like the kind of case study questions, a lot of the product, uh, management questions, I know they mostly just wanna see like how you think and like what framework out of these questions. Okay. In order to come to an answer, like with what the answers actually are, like not very relevant.
+
+Austin:                                                14:20                                             Do you have friends who applied and didn't get jobs at these companies?
+
+Chloe:                                                 14:23                                             Yeah. I know someone who went through the recruitment process at the same time as made for the same job.
+
+Austin:                                                14:29                                             What do you think happened? Why did they not get chosen?
+
+Chloe:                                                 14:32                                             I'm not sure. Well, for the person I know he applied to product and finance, so he was trying to, um,
+
+Austin:                                                14:39                                             Game it.
+
+Chloe:                                                 14:40                                             No, just you're allowed to apply to multiple rules at the same company. But then they chose him for finance and then he didn't end up making it.
+
+Austin:                                                14:47                                             Oh, okay.
+
+Chloe:                                                 14:48                                             For that. So I think that could have impacted it, but also I think just some general interview advice. I think one thing that really helped me is having a narrative about myself mm-hmm. <affirmative>. Um, they want to see like how you connect what you're doing at school to why you want to work with the company, and then having a really good answer for why this company. Mm-hmm. Because every company will ask you
+
+Austin:                                                15:09                                             That. So great example, Amex, why,
+
+Chloe:                                                 15:13                                             Um, I think for me, I was really interested in working in tech and business and it seemed like a really cool intersection of the both of them. Okay.
+
+Austin:                                                15:23                                             All right. Yeah, that'll work. Um, okay. Any other questions from you guys so far? Crystal?
+
+Crystal:                                               15:31                                             Okay. Can each of you describe like what you did during your internships? Like each day?
+
+Reza:                                                  15:37                                             Yeah, I can, I
+
+Austin:                                                15:38                                             Can, we'll go Reza and then this way. Sure.
+
+Austin:                                                15:40                                             You were at home, right? You were saying? Yeah,
+
+Reza:                                                  15:43                                             I was at home. Uh, so it's a, it's a log on check, check the email. Um, no, I mean, so for mine, uh, for the interns at least on a team, they give the interns a specific project to work on. So I'm, they do really small teams at Amazon, like eight people to a team. And they just have like, I don't know, like a thousand of these teams or something. Something like that. Hmm. Um, so I was the only intern on a team and so I just had a project to do myself and it was, I actually got to do the entire thing from design of the feature to, uh, implementation to testing to, to the end. So I got to carry through the whole thing and then actually get it to deploy, which was really cool. Um, yeah, so it was kind of, I kind of was on my own track from the rest of the team while kind of just, uh, checking in with them.
+
+Austin:                                                16:30                                             Did you have daily calls or, oh,
+
+Reza:                                                  16:32                                             Yeah. So I think it's pretty standard at tech companies that they do like a daily standup, at least that's what they call it, Amazon. It was just like a 10, 15 minute meeting with the, everybody on the team shows up and just says what they're working on for the day. Um, so that would happen first thing in the morning, which for me was at noon because they're on the <laugh> Oh yeah. On the guys. Um, and then, yeah, I mean, hours were super flexible because no one was really like keeping track of when I was online and when I wasn't. It was more about just getting the work done by, in like in a timely manner.
+
+Austin:                                                17:04                                             It's a paid internship. Yes. But it's not hourly. Like there just, here's the sum you
+
+Reza:                                                  17:09                                             Get. No, it's just like salary. Like I just had a salary per month. Mm-hmm. <affirmative>, this covers everything. Yeah.
+
+Austin:                                                17:15                                             Jasper, what about you? What was the day-to-day like,
+
+Jasper:                                                17:18                                             Uh,
+
+Austin:                                                17:18                                             You were in your apartment? I
+
+Jasper:                                                17:20                                             Was, I was on a team with like, it was an existing like 10 or 11 person team with two interns just, and, uh, they're the complaints insights team. So just generally what they do is, you know, kind of ad hoc analyses for like, whatever, you know, top leadership wants to know about complaints. They just go to our team like, Hey, tell me about what was happening with like, fraud complaints of like this, you know, certain type for you know quarter three, because I heard that industry wide, like they're up or something like that. So my specific task was
+
+Austin:                                                17:49                                             What are frog complaints? Fraud. Oh, fraud. Okay. Fraud. Yeah. No, no idea. No fraud. Okay. Fraud <laugh>.
+
+Jasper:                                                17:56                                             So my specific task for the, for the summer was there were, there was like an industry wide increase in, uh, these like highly escalated complaints, but for Capital one more so than, Bank of America, I suppose other credit card could be. So they wanted us to figure out why. So we had to do a, there aren't like, there are only maybe like a thousand of these complaints a month. So we a did like a manual review of them b uh, like pull data using sql, put it into sheets, you know, tables and stuff to try to figure out what exactly was going on.
+
+Austin:                                                18:28                                             Yeah.
+
+Jasper:                                                18:28                                             And you know, so
+
+Austin:                                                18:30                                             Do you think your AI project that you did Jasper gave you a little bit of like, intel into some of this? Like
+
+Jasper:                                                18:35                                             Maybe a little bit. I had an idea to like use, uh, natural language processing on the like complaint descriptions. Like, you know, try to bucket them more easily. Yeah. Cause the manual review is like a little bit of a hassle and a lot of the comments were pretty uniform, but Mm. Ran out of time to do anything with that. Okay. But like, I guess, say it, answer your question, my day was kind of split between a, this manual review b meetings, like with other teams and the company to like even understand cause I didn't know anything about credit cards. And then c is like, as like, you know, data the more, more techy, you know, analysis of
+
+Austin:                                                19:07                                             It. You weren't in an apartment in the city. Right. I was in. So how did you structure your day? Because I could imagine you would just be like, I'm gonna go get another like ice cream cone, like a go get Chinese food again. Yeah. Like, yeah. Uh, was it hard to discipline yourself?
+
+Jasper:                                                19:20                                             I, I, I, I try to give my day some more structure than at school. Cuz it's like easy, it's easier with a nine to five and like, when you're in the city, you're kind of ruining your sleep schedule on the weekends. Yeah. I had to, you know, force myself to, uh, stick to a more regimented like mm-hmm. <affirmative>, I wake up early, uh, go to the gym, get a coffee. I started drinking coffee for the first
+
+Austin:                                                19:43                                             Time. Oh really? Oh wow. Uh, big change. And
+
+Jasper:                                                19:45                                             Like, I, I wasn't like Reza. I had like a pretty, you know, solid nine to five. Cause that's when I had to talk with other teams a lot cuz I need to understand the complaints I'm reading, so I need to be asking questions. So, and like, they're captain what is a pretty, you know, worker friendly culture. So people are just like off at five, you know. Um, so I had to, you know, make sure I was off for all those hours so I get the most amount of guidance.
+
+Austin:                                                20:06                                             That's great. So one thing that, one common thing I'm hearing is teamwork. Like, you are working with other people, you're on teams, you are being accountable to a team. So true for you two, Katie. So what was it like being there? You were physically in this beautiful place in the country and in a, in a, in on a cubicle, in a cubicle on an office floor. What were you, what was your office like?
+
+Katie:                                                 20:26                                             Um, yeah, it's like a open floor like office. Um, so they assigned us a desks and actually all the interns were living together. They like provided housing for us. Oh, wow. Yeah, so, which was really nice. So we would like eat together in the morning and then like take turns driving to work, um, depending. And then pretty, we pretty much got there around like eight 30 or nine and then had like a morning standup, like, um, what Reza was saying. Um, and they kind of, so when we first got there, they had us all do like a couple day, uh, like full day project, um, to get like acquainted with, uh, we were using React, which is like a, a development, um, framework. So they had us do that and then they split us onto like permanent teams or permanent for the summer. Um, so I was working on the UI team with, uh, three other interns. Um, and our team actually had like two projects on it. So like two of us were doing like a backend uh, project. And then, um, me and my partner were working on, uh, like, it was keyboard shortcuts. So like, um, on their website, like when you hit like, I don't know, like w or something, it'll like open up like this page or whatever. Hmm. Um, so yeah, my day was like pretty similar like, um, meetings to check in with like UI team and also just like intern meetings. Um, and Richland has like a really good like, company like AMA uh, programs. So like they kind of have someone come in like once a month or late or once a week, couple times a week, um, to just like talk to the interns and like find out more about like, different parts of the company. Mm-hmm. <affirmative>, which is really
+
+Austin:                                                21:53                                             Cool. What's ama stand for?
+
+Katie:                                                 21:55                                             Ask me anything. Oh. Um, so like, yeah, like Dave came in for one like the heck. Wow. Yeah, like the, okay. Yeah. Um, so it was really cool to like get to know about like, um, like what, what other people in the company are doing. Sure. And um, they also have a big emphasis on like one-on-ones and like setting those up with like, pretty much whoever you want. Hmm. Which is pretty cool. So I have like one or two of those. Like a day
+
+Austin:                                                22:17                                             You're going back. Yeah. And like, so some of these cultural things seem to be really appealing, right? Like the idea that, so can any employee be involved in an ama like once you're working there full-time, can you also attend and talk to the CEO and et cetera?
+
+Katie:                                                 22:31                                             Yeah, I think, um, they have like set aside times, like, I think maybe like once a year to try and like try and check in. But I think he's, um, like people are kind of like in and around the office. Like, um, not all the time obviously especially like, like he's really busy. But, um, yeah, people are definitely like around him very like accessible. This is
+
+Austin:                                                22:51                                             Cool. That's good. Yeah. Chloe, what about you?
+
+Chloe:                                                 22:53                                             Yeah, so the word that Amex structures, the internship program, each intern has one project that they work on, uh, by, not by themselves but without any other interns with a team that's already at the company for 10 weeks. So it was nice because I really got to structure my work, um, the way that I wanted to. Mm-hmm. And I would say most of my day was meetings. I had a lot of coffee chats. Um, definitely they emphasized networking a lot. And we also had um, like an educational series and a lot of speaker series, which is really nice to learn about what other people were doing at
+
+Austin:                                                23:31                                             The company. Wow. What was the best part of the internship experience for you?
+
+Chloe:                                                 23:36                                             Um hmm. I don't know. <laugh>, that's like one specific thing. I guess I just really enjoyed it. It overall like structuring my day. Um, and similar to what Reza was saying, I had really flexible hours and my team was also based on the West coast, so I had more time in the morning, I could work out and then, um, structure my day the way I wanted to for the rest of the day. That's great. But I, I think probably like the coffee chats and meeting other people, connecting with other people, it was a lot more difficult because it was remote. Yeah. But hopefully that'll change when I go back.
+
+Austin:                                                24:15                                             <laugh> in a way. You might have had more access because it was remote. People are willing to jump on a zoom more, so. Yeah, that's true. Um, anybody else? Great experiences like upsides of the internship?
+
+Reza:                                                  24:26                                             For me it was mostly just meeting a lot of the other interns. I think that was just really fun. We also had a bunch of like Slack groups. We used Slack. Oh yeah. So there were a lot of like meme groups. Um, sunny day, like there was like a day when like a huge chunk of the AWS servers went down and everyone's just making memes and just like hanging out. Cause no one could do any, like whatever team is trying to fix it is trying to fix it. Everyone else is kind of just hanging out <laugh>. Okay.
+
+Austin:                                                24:48                                             Um, how did you meet the other interns Reza if you were on a team as the only intern was there just via the Slack channel?
+
+Reza:                                                  24:54                                             Yeah, it was Slack channel was a big one. They tried to keep us in cohorts like those starting in May. Those starting in June. Yeah. Um, have like their own Slack channels. And then they also did, you could opt into programs for like, randomized, just small groups of interns. Cause they recognize that it's really difficult to meet other people when it's everyone's virtual and on different teams. So that was also a way that we met. And then it was a lot of just virtual coffee chats and virtual lunches.
+
+Austin:                                                25:20                                             Okay. Um, Jasper, good experiences?
+
+Jasper:                                                25:25                                             Uh, I think the best part is, uh, presenting to people higher up in the company they need. Cause I do do that a bunch. Uh, cuz I was looking at like all different, like all the different types of complaints I had to like present to, to each like team what was going on. And then also like all of their supervisors. Wow. The cool summaries. So I was like presenting every week and part of that is like, you know, how to make, uh, slide deck center are, you know, really efficient and yeah.
+
+Austin:                                                25:53                                             Persuasive.
+
+Jasper:                                                25:54                                             See their point, which probably, you know, taught me more on how to, you know, communicate things well in the corporate setting.
+
+Austin:                                                26:00                                             Japer, how did you, how did you learn how to do that? Did you learn that here at Cornell or is that just something you've done enough of them, you started to refine it and realize what you like and what's
+
+Jasper:                                                26:09                                             Affected? Honestly, writing a ton of philosophy papers gave me like a really good intuition. Okay. Here because yeah, like part of what they stress is you just have to be like so concise and then like everything has to lead into the next thing. So I honestly think I had an easier time, but then a lot of people because of that. But just, it's kind of funny, you know, giving like this this deck to, to your manager that you spent like hours on just watching them, like their little, their little like avatar on Google slides go through and they're just like fixing like the little, like everything that you spend so much time. Wow. Shifting the margins and like, oh, the periods, all the right font and you're just like, oh my
+
+Austin:                                                26:44                                             God. What did they care about? Was it sounds like it was more design and layouts than it's more
+
+Jasper:                                                26:48                                             Just like the people, the people who you're presenting to. They're just like so busy. Like you like their Google calendars, like every single day has like three meetings all over overlap that they have like pick one to wow two. So like you have so little of their time, their time is so valuable that like you can't have anything that's like remotely distracting on your, on your slides. Like smashed spacing or Oh yeah. Stuff like that. Or like weird words. It's like in order to communicate what you have to communicate, you just have to make sure that like there's as little of that as like humanly possible. Just like, I think an entirely different skill than like, uh, yeah. A lot of, you know.
+
+Austin:                                                27:26                                             Yeah.
+
+Jasper:                                                27:26                                             A lot of traditional tech stuff I would say.
+
+Austin:                                                27:28                                             Katie, what about you? Highlights of the summer? It sounds like hanging living with other interns is probably very fun.
+
+Katie:                                                 27:33                                             Yeah. Um, definitely that they had some like intern events, like plans and stuff too. Um, like we went axe throwing as a group, which was really
+
+Austin:                                                27:40                                             Fun. That's getting more and more popular. <laugh>.
+
+Katie:                                                 27:43                                             Yeah. I had never been, it was really fun <laugh>. Um, and interesting, uh, I guess like more work related. Um, we had like once a week, uh, like intern projects to like show like, um, like people who are on different teams. Like we would like just all showcase what we were doing. Hmm. Um, and that was pretty cool to like get experience of like presenting to like the company, which they do like that a lot. Yeah. Kind of nerve wracking, but like by the end of it it was like not as bad. And um, to kind of see that because it was like purely an intern like work related thing. Um, any of the full-timers who showed up were like showing up just because they were interested. So that was pretty cool
+
+Austin:                                                28:17                                             To hear. Okay. Yeah. Needing older people who work at the company talk
+
+Speaker 9:                                             28:21                                             Also another question Yeah. That I know students will always ask, um, from info session to offer. What is the timeline?
+
+Chloe:                                                 28:32                                             Mine was about a month for the meeting
+
+Austin:                                                28:35                                             And the info session happened fall. So fall junior year? Yeah. It
+
+Chloe:                                                 28:38                                             Was junior fall I think in October. And then I think I found out in, at the end of November.
+
+Austin:                                                28:45                                             What about you Katie? I
+
+Katie:                                                 28:46                                             Think it was like a month. I'm kind of blanking on exactly like from what month to which month. But it was like when
+
+Austin:                                                28:51                                             You were at Christmas, were you like feeling secure about what you were doing for the summer? Yeah. Okay. So we know it was the fall. Yeah. <laugh> same deal. Jasper too. Right? I
+
+Jasper:                                                28:58                                             Was like mid-September to mid-October for the summer.
+
+Austin:                                                29:01                                             Wow. Yeah. That's crazy. Was it you two?
+
+Reza:                                                  29:04                                             I was also like October.
+
+Austin:                                                29:06                                             Wow. It was done. Yeah. Wow. Why are they so early? Like, it seems like February would be fine.
+
+Jasper:                                                29:13                                             September, October is like, can be pretty late depending on, you know, there, there are a lot of companies that, uh, I guess I, I guess Ray. Ray Ray could talk a little bit about it. Cause see, I, I remember him showing up in September with like a spreadsheet, like 80 companies he'd already applied to.
+
+Austin:                                                29:29                                             My God. Well,
+
+Jasper:                                                29:30                                             For some, for like, for like tech and consulting or financing consulting.
+
+Austin:                                                29:35                                             Yeah. Okay.
+
+Jasper:                                                29:37                                             I think part of it is, is they're still so in demand for like computer science, so in demand that all the companies are competing with each other. So they all wanna get first dibs. Mm. So it keeps getting <crosstalk> earlier and early. Yeah. Yeah. To the point where it's like, now it's like as soon as the semester starts, like how much earlier can you get
+
+Austin:                                                29:52                                             Me? So
+
+Ming:                                                  29:53                                             What do you think, uh, freshman with little experience can do right now?
+
+Jasper:                                                30:00                                             Make sure you have something to talk about. Mm. The behavioral interviews by doing cool things that you enjoy doing. You should talk about, you shouldn't really worry about internships till maybe like sophomore spring. Start making a plan for, you know, you're gonna do for the summer and for junior fall.
+
+Austin:                                                30:16                                             Jasper, what'd you do your summer after your freshman year?
+
+Jasper:                                                30:22                                             <laugh>, good question.
+
+Austin:                                                30:23                                             Home and
+
+Jasper:                                                30:25                                             I did, what did I do? I think I just went home and helped some of my parents' friends were starting like a blockchain newsletter in Seattle. Wow, okay. Cause that was something I was kind of interested in. So, and uh, actually, you know, that that helps because I started a, I started a sports analytics club in my sophomore spring and then someone contacted me for that because A, they were, you know, they saw I was interested in blockchain, which is something they were interested in too. Mm-hmm. <affirmative> and B for the sports analytics saying they were like making an app that was kind of sports betting fantasy adjacent where you like mm-hmm. <affirmative> bet on Dries live as they happen. Like, like stock derivatives mm-hmm. <affirmative>. So like that was something that, you know, caught his eye on my LinkedIn page. Yeah. He asked me if I wanted to work on that over this summer. I got a team from the club.
+
+Austin:                                                31:11                                             Was that something you might have brought up in the behavioral part of the interviews too? Yeah. That you had done this sports simulation? I'm talking about it. Gotcha. Yeah, for sure. Anybody else? Sophomore. Your freshman summer? So after your freshman year, what'd you do? I
+
+Chloe:                                                 31:22                                             Worked at a preschool. Oh
+
+Austin:                                                31:24                                             Yeah. Okay. Were you thinking maybe you'd get into education and you or you just
+
+Chloe:                                                 31:28                                             No, it was just a summer job. Okay. Yeah. So I didn't really talk about that too much in my
+
+Austin:                                                31:33                                             Interview. Okay. But,
+
+Chloe:                                                 31:35                                             Um, the experience that I had that was relevant was after my sophomore year I worked at a marketing agency. Hmm. And I worked on a project, um, like dealing with data analysis. So I was able to talk about that a lot in my interview and I think that is probably what helped me get the job. Okay. But I would say like when you're a freshman, just taking advantage of all the resources available on campus because you have to start somewhere and just start with things that you're passionate on campus and that will translate into other things. So you get older. Mm-hmm. <affirmative>
+
+Austin:                                                32:06                                             Katie Summer or after your first year? What'd you do?
+
+Katie:                                                 32:09                                             Um, I actually worked on, um, the neighbor to neighbor project. Oh yeah. With Andrew. Um, so I stayed here for that summer. Okay. And, uh, I really like it here during the summer, so mm-hmm.
+
+Austin:                                                32:19                                             That's
+
+Katie:                                                 32:19                                             Pretty nice. I think freshman summer is a good one to stay here. So
+
+Austin:                                                32:22                                             Reside home. Where were you?
+
+Jasper:                                                32:24                                             Yeah, I just went home, kind of hung out. I sort of dabbled in AWS and Google Fire Base. Just some cloud computing services. Cause I was trying to figure out how it worked and didn't really understand it. <laugh> I admittedly like I didn't get very far, but I pretended like I was doing something productive with that summer. That's all right. It's good enough for me.
+
+Austin:                                                32:44                                             <laugh> in charge. Yeah. Yohan, uh,
+
+Yohan:                                                 32:46                                             Reza, I'm curious, like what was your relationship with your manager and like what did you learn from him?
+
+Reza:                                                  32:51                                             Yeah, I was pretty close with my manager. I was probably closer with my manager than, than the rest of the team. Um, at you're assigned a, a manager and a mentor. Um, so manager obviously for the whole team. And then a mentor is just somebody else on the team who you can kind of go to with questions when manager's not available and, and really first, first go-to person. Um, I had weekly one-on-ones with my manager as well as him also being in on like stand ups to just hear what we're talking about. And then I could always schedule extra time. Um, super nice, uh, was always willing to kind of help give cri uh, give like constructive criticism. Um, yeah, he was just a, he was a really friendly guy. I really liked him. He's one of the main reasons I I decided to accept your return offer.
+
+Austin:                                                33:34                                             What did he teach you about how to be a successful employee at Amazon?
+
+Reza:                                                  33:38                                             I think it's, I guess this is kind of specific to Comedy zone, but Amazon, off the record, it is a little culty. Um, still on the record by the way.
+
+Austin:                                                33:48                                             Yeah. Well don't worry. You'll review this. It's off the record.
+
+Reza:                                                  33:52                                             It's a little culty. They have like, and so there's very specific ways that they want you to talk about the work that you're doing. So when you present and do these sorts of things, there's certain language that they like to have in there and it has to do with like their leadership principles and all the stuff that they, they're kind of like rooted on, which I think is really helpful in a lot of cases. I think sometimes it's stressed a little bit too much, but is what it is. But he helped me really like kind of put myself both in the mentality of like formulating like my presentations that way. Mm-hmm. <affirmative> as well as just like kind of thinking about how I code in that way of, of, you know, thinking about they're very, they're, I think they're tagline is like the most customer centric company on the planet or whatever, but it really is like every, every time every design review is what does this actually do for the customer. Mm-hmm. What does the customer see in the end. Mm-hmm. Um, and thinking about, you know, customer doesn't necessarily mean like a, somebody who's shopping on Amazon or somebody who's doing this. Like there's internal customers as well, other teams in, within Amazon. So it's who's your customer and what are you really giving to them? Mm-hmm.
+
+Austin:                                                34:49                                             <affirmative>. Okay. Yeah, ma'am. Oh, then Crystal. Oh, okay. <laugh> just a fly.
+
+Crystal:                                               34:56                                             Chloe, you mentioned checking LinkedIn and for alumni. Um, did any of you use the, the, um, alumni networks through career services available to meet with anybody or do informational meetings about companies or
+
+Austin:                                                35:11                                             CU links? Is that what you're referring to? My,
+
+Chloe:                                                 35:13                                             I did not. I did all my networking on LinkedIn pretty much. Mm-hmm.
+
+Jasper:                                                35:18                                             <affirmative>. Yeah, me too. Okay. But only for the jumps I did not get. So <laugh>,
+
+Austin:                                                35:25                                             Take that with you quickly. Forget about those. Um, any other questions you guys? Yeah,
+
+Yohan:                                                 35:31                                             I think you mentioned there were three thought that were automated. One was the 20 questions in, sorry, seven questions in 20 minutes. And what Were the, the other two?
+
+Reza:                                                  35:36                                             Yeah. Um, so yeah, 7 de-bugging questions, 20 minutes. This, so once you got through that, there was a two questions, I think in 60 or 70 minutes. Those are longer, like with the debugging, it was, they already have code, something's wrong with it, find the issue based on what it's supposed to do and fix it. Mm-hmm. <affirmative>, the other ones were just the problem statements and you had to write the entire function, uh, for two different questions. And the third was a, I think it's quite unique to Amazon. It's, I guess they're behavioral without having to do an actual interview, which is, it's like a simulated workday where you, you open your computer and it's, it's like a virtual desktop with messaging and you like click through and you get like videos and you get put in scenarios of, you know, like one engineer's telling you this, another engineer's telling you this, how do you go about solving that problem? And they just kinda like multiple choice or prioritize your responses. And I guess it's their way of judging behavioral and, and how you would go about an actual workday. Hmm. And then after getting through that, then there's a final technical interview with a live person. You do one coding problem and kind of talk through it with them and, and then they ask, I think they ask a couple of behavioral questions as well.
+
+Austin:                                                36:52                                             Well that's really involved.
+
+Reza:                                                  36:55                                             Yeah. Okay. It was nice though cause it was on your own time. So it was like you had a, from when you get the first one, you have a week to do that. When you, if you pass that you have a week to the second, a week to do third and then your last interview. It is, that is pretty
+
+Austin:                                                37:07                                             Much spread out back one month. Okay.
+
+Reza:                                                  37:09                                             Of that process.
+
+Austin:                                                37:11                                             So thinking about the internships and your success at the internships with yielded jobs, is there anything you wish you'd done on campus or potentially even thought about how the Millstein program could be designed that would've been helpful to getting these internships slash getting a job? Like do you wish you'd spent your time differently? Do you wish you'd like, oh man, I wish I had done more presentations or learned how to do standups or,
+
+Chloe:                                                 37:32                                             Um, I think, yeah, maybe it was a couple to have more interview prep available on campus resources to do that. Um, and also more resources practice public speaking. Um, but yeah, I'd say if I could change anything about the whole process. So I went through recruitment during covid and I was in my apartment pretty isolated. So, and I feel like I felt a lot of pressure that I had to get an internship because everyone around me is getting internships. So just not being too hard on myself and understanding that it's a process and everyone will end up at a place that's right for them. Yeah. So, yeah, just not being like too intense about the process.
+
+Austin:                                                38:13                                             Chloe, take a minute. What did your friends do that you were jealous of? Were people doing internships, whitewater rafting? Were people doing, um, I don't know, like traveling in Europe and just wanted to, I guess you wouldn't have done that with Covid, but like did people also get internships in other fields that you were interested in or thought that
+
+Chloe:                                                 38:30                                             Not really. I was really ha happy and excited about my offer. It was really what I was looking for because it really combined UX and data analysis mm-hmm. <affirmative>. So I was so excited about the role. And I honestly like, um, so when I started recruitment and I went to that information session and saw a job posting, it was my top choice. Okay. So I'm really happy that it was a mutual thing. You're
+
+Austin:                                                38:53                                             Living the dream. Like there were no other dreams to have. I'm
+
+Chloe:                                                 38:55                                             Returning next year in New York, which is where I want to be. So honestly I couldn't have asked for.
+
+Austin:                                                39:01                                             Wow. Worked out. Um, Katie, what about you?
+
+Katie:                                                 39:04                                             Um, I think looking back, uh, the biggest thing for me would've just been like kind of practicing biggest for technical interviews. Um, it is kind of just like a very specific way of thinking and like kind of approaching problems that like, I guess like for me, like hasn't really come up in like any other areas except like specifically interviews. Um, and I think like I kind of came into it like in the fall being like, okay, now we're gonna start interview prepping. Versus if I had just been doing like a little bit mm-hmm. <affirmative> like every once in a while, like before, um, that would've been helpful. Mm-hmm.
+
+Austin:                                                39:32                                             <affirmative>, um, I know that CS works with the engineering school right? To do interview prep? No. Don't they? I've heard that that's how they've resourced it, but maybe you didn't connect with them. You never went, never heard. Okay. Interesting. I'm not sure that's all new information for everybody. Okay.
+
+Ming:                                                  39:47                                             A follow up question of what, what did you do for an interview prep?
+
+Austin:                                                39:50                                             Oh,
+
+Katie:                                                 39:51                                             Uh, yeah. I worked through like LeetCode cracking the coding interview and um, like the elements of Python book just to get like the basics. And then the other thing I would say is like, that I kind of wished I'd done is I let like a lot of like code interviews just kind of like expire like in my inbox or like maybe like honestly like, just kind of didn't show like go and like take advantage of some opportunities. And like, I think going back, like even if I, it wasn't something that I was like really interested in or like, thought that I was like actually going to do like to just like do it for the practice. Mm. And like kind of take advantage of that.
+
+Austin:                                                40:22                                             Okay. Yeah. Jasper, what about you? Anything you wish you'd done on campus or had looking back that the program could provide?
+
+Jasper:                                                40:31                                             I think really because the, the, the other jobs that I was looking into more were consulting jobs. Um, for those you need a lot, you, you need a lot more networking than you do for tech business analyst, analyst analysis, which is what I did. Um,
+
+Austin:                                                40:45                                             Consulting, McKenzie, that kinda thing. Yeah.
+
+Jasper:                                                40:48                                             Okay. But I like kind of thought about like the things that, you know, I would, I would do to get that network on campus and like couldn't, you know, justify doing those instead of like what I was currently doing, you know, to myself. So I think like I made the right choice mm-hmm. <affirmative> and the get-go for that. But uh, in terms of the interview prep, I think like for the behavioral stuff is special. I think it's really like, it's like a super like 80 20 for like, you know, 20% of the effort gets you 80% of the way there. Like if you just like talk through like Hmm. For the behavioral questions they're like, you know, six or seven buckets circuit, like they're gonna ask you about something about being a leader, something about working at a team, something about resolving conflict. Yeah. There're like six or seven of them and if you just have like one anecdote for all six or seven, you can just like, like guide their question. You don't even have to answer their specific questions. Mm-hmm. Just like,
+
+Austin:                                                41:37                                             You know. Right.
+
+Jasper:                                                41:38                                             Shift. Shift it to start. Answer
+
+Austin:                                                41:39                                             The question you wish you'd been asked. Yeah, I gotcha. So
+
+Jasper:                                                41:41                                             Yeah. Uh, okay. Really just like making sure you're doing like even a little bit. It goes a long way.
+
+Austin:                                                41:46                                             Did you Biff any interviews Jasper or you try, you got interviewed and you thought, woo. I that was not the right answer? I don't
+
+Jasper:                                                41:51                                             Think I biffed many if any. Okay. It was funny cuz a lot of them were like record, they like give you the question then you record yourself answering it on like HireVue or something. Yeah. And like sensibly you had 30 seconds to think of your, your answer, but you got one retake opportunity. Oh. And they gave you infinite time to decide whether you're gonna retake it or not. So just like <laugh> say anything the first time just sat there thinking about what I was gonna write and so like
+
+Austin:                                                42:18                                             Well done. These
+
+Jasper:                                                42:19                                             Interviews are supposed to take like 40 minutes, took like two hours cause said three x the time like in the breaks, just thinking about, I was gonna say I might retake then the problem with that was I had just one shot or able to do it. That was a good strategy for me. But I don't know if you'll have that cuz you won't be doing as many virtual interviews. Mm-hmm.
+
+Austin:                                                42:38                                             That's true. I wonder if that'll change or maybe it's permanently virtual until you're an employee or something. I don't know.
+
+Jasper:                                                42:42                                             Like the first round ones are trending. That one. Yeah. For pretty much every industry. Now
+
+Austin:                                                42:46                                             Reza you have any other thoughts on this idea about what you, you know, what you could have been doing in co in college to prepare you better for the job you're gonna do?
+
+Reza:                                                  42:55                                             Uh, caring about school less <laugh>? Um, honestly in in honestly I think, I think I spent a lot of time and I think I burned out probably one like once a semester over the CS work. Um, and, and just trying to deal with life and in all that time I don't think anybody's looked at my transcript. I don't wanna say like my work, like I could have done last and gotten here cause I am where I am because of what I did I guess. But no one's asked for my transcript. No one, I don't, like my gp GPA is like one number on my resume and I don't think it being like a little lower is going to change my chances. And I, I guess that's different for every person in every job depending on what you're going for. But especially I think in tech jobs it's more about what can you do? Um, not so much like what have you done in your classes. Mm-hmm <affirmative> in your school and like how well did you do in that class?
+
+Austin:                                                43:46                                             You touched on something interesting, which is how important is a resume? Does it need to be pretty or are most of these jobs you're enter cutting and pasting the material into some kind of box or an interface. You know what I mean? Do you need to have a good inter resume, a nice looking resume?
+
+Reza:                                                  43:59                                             I couldn't tell you. I mean, I think, I think I have a nice looking resume, but again, you know, I went, I just, I got a referral so I think that kind of boosted me through the resume round. So I can't really speak to Okay. How good my resume is. Maybe
+
+Austin:                                                44:12                                             Jasper was nodding. You feel like your resume mattered, like making a nice
+
+Jasper:                                                44:15                                             Yeah, I don't know for like hardcore tech, cuz I didn't apply hardcore tech, but for every other job you should have a good resume.
+
+Austin:                                                44:21                                             Did you get any help with yours? How'd you design yours?
+
+Jasper:                                                44:25                                             Um, my mom helps people with their resumes a lot. Oh, I don't know.
+
+Austin:                                                44:29                                             Nice.
+
+Jasper:                                                44:31                                             So, uh, yeah.
+
+Austin:                                                44:33                                             What did she, what were some of the principles of what she did to your resume? Jasper? Did she take stuff off? Did she? It's
+
+Jasper:                                                44:38                                             It's, it's just like all about a, a only put on your resume what you could talk about for like a good length of time because, you know, people put like dinky little side projects that they abandoned on <laugh>, they get asked to talk about it. Okay. I lost her words. So that, and then just like communicating, you know, as much as you can with as little words as possible mm-hmm.
+
+Austin:                                                44:56                                             <affirmative>. Okay.
+
+Jasper:                                                44:58                                             Those are the two things I would say.
+
+Austin:                                                44:59                                             Katie, Chloe, resume. Does it matter? Thumbs up, thumbs down.
+
+Chloe:                                                 45:02                                             Yeah, I think it depends what you want to do. Probably for tech it matters less, but I actually had a design resume because I was originally interested in product design. Okay. So I fully designed mine on Sketch, which is a little bit less traditional, but I think that was something that helped me.
+
+Austin:                                                45:20                                             Okay. So lemme just stick out. Katie, what about you?
+
+Katie:                                                 45:23                                             Um, I think I, I've taken my resume into like the career services office. Yeah. Like a couple times. I'm just like relying what they said, but I think pretty much it's like, um, for tech, like you just wanna make sure it's like readable and like not just overloaded with information. Yeah, definitely not like stuff that like ja Jasper said that you haven't actually done. Um, and also like, um, I guess like sometimes but like if you want to like edit it a little bit and make sure that like only like the most relevant information is on your resume or your version of the resume for the mm-hmm. <affirmative> that you're applying to can be helpful. Yeah.
+
+Austin:                                                45:55                                             As well. Okay, great. Uh, any other questions?
+
+Speaker 9:                                             46:00                                             Did they ask you questions about extracurricular things? Not necessarily on your resume?
+
+Chloe:                                                 46:06                                             Yeah, I talked about that. A lot of my responses, it just comes up when they ask you about your leadership experience, your strength and your weaknesses. So just like playing off of those mm-hmm. <affirmative>. Yeah.
+
+Austin:                                                46:18                                             Jasper, you too. They did ask you about what else you do.
+
+Jasper:                                                46:21                                             Uh, I I have a little line of like, you know, extracurricular stuff that I'm interested in that is kind of vague for them to ask about. You know, those things in particular cuz those are the things that I would want to talk
+
+Austin:                                                46:33                                             About. You're juggling your French, like what was on your resume as that extracurricular?
+
+Jasper:                                                46:39                                             Uh, I guess my club was not technically an extracurricular <laugh> uh,
+
+Austin:                                                46:45                                             Wait, the Sports Analytics club. That's a, that's a legit, yeah.
+
+Jasper:                                                46:48                                             Yeah, that was, yeah that was, that was I think a bigger line item. Uh,
+
+Austin:                                                46:52                                             Well you weren't getting a grade, right? Sorry. The sports analytics club. You weren't getting a grade. So it's definitely extracurricular. Like it's not like a Yeah, but
+
+Jasper:                                                46:59                                             Like I, I gave it like a little bit more. I see. 10 section. Cause
+
+Austin:                                                47:02                                             It was, it looked like a free-standing business. It was
+
+Jasper:                                                47:03                                             One of the more, it was one of the things I like, I wanted them to ask about
+
+Austin:                                                47:07                                             Gotcha.
+
+Jasper:                                                47:07                                             I thought it should, you know, a great initiative on my
+
+Austin:                                                47:10                                             <laugh>
+
+Jasper:                                                47:12                                             Pretty well.
+
+Austin:                                                47:13                                             Um, yeah. Anybody else on that question? Extracurriculars, whether you got asked about 'em?
+
+Katie:                                                 47:18                                             I think in my final round interview, like my interviewer had my entire resume and the only thing that he actually referenced was like my little line at the bottom and he was like, oh, you like rock climbing?
+
+Austin:                                                47:27                                             Oh yeah, <laugh>. Okay.
+
+Jasper:                                                47:29                                             Having hobbies or interests at the bottom? Yeah, like a one line of just like a, like five or six things that you just into,
+
+Austin:                                                47:35                                             Yeah,
+
+Jasper:                                                47:36                                             Get into rock climbing if you want to do to like sort
+
+Austin:                                                47:39                                             <laugh>. Really? It's like
+
+Jasper:                                                47:41                                             80%.
+
+Austin:                                                47:42                                             That's hilarious. Cool. Funny. Um, okay, if nobody else, oh, might do you have one more question? Um,
+
+Crystal:                                               47:47                                             Did they ask you, since you all worked on teams, did they ask you about your experience collaborating or working on teams?
+
+Chloe:                                                 47:56                                             Yeah. That question came up for me
+
+Austin:                                                47:57                                             What'd you say?
+
+Chloe:                                                 47:59                                             Well, I talked about, I guess going back to my extracurriculars, but all the experiences I've had and you kind of want to tell a story,
+
+Austin:                                                48:08                                             But Chloe you were saying didn't come up?
+
+Chloe:                                                 48:10                                             No, because I joined the project team the same semester that I
+
+Austin:                                                48:13                                             Was doing, so it wasn't quite underway. Gotcha. Yeah. Okay, well if nobody has any other questions, uh, we'll wrap it up. Thank you guys so much for doing this. Um, let's give a round of applause.
