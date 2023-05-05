@@ -22,7 +22,7 @@ const Index: React.FC = () => {
       </div>
       <hr />
       <div className="madewith">
-        <p>Made with &lt;3 by Milsteiners for Milsteiners</p>
+        <p>Made with 💛 by Milsteiners for Milsteiners</p>
       </div>
     </div>
   );
