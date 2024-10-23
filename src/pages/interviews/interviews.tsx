@@ -3,7 +3,7 @@ import "./interviews.css";
 import Banner from "./banner.svg";
 import Andres_Interview from "./Andres.mp3";
 import Dumebi_Interview from "./Dumebi.mp3";
-import Andres_headshot from "./andres_headshot.svg";
+import Andres_headshot from "./andres_headshot.jpeg";
 import Dumebi_headshot from "./dumebi_headshot.svg";
 import Mary_Interview from "./Mary.mp3";
 import Mary_headshot from "./Mary.jpg";
